@@ -16,7 +16,7 @@ Aplicação destinada aos profissionais de beleza que tem como finalidade visual
 
 
 ##Front-end Mobile.
-Aplicativo em ReactNative para os clientes se cadastrarem, terem acesso aos prestadores de serviço e realizar seu agendamento/cancelamento.
+Aplicativo em ReactNative para os clientes se cadastrarem, terem acesso aos prestadores de serviço e realizarem seus agendamentos/cancelamentos.
 
 ![Alt Text](https://github.com/lucascjardim/GoBarber/blob/master/PrintsGoBarber/Captura%20de%20Tela%202020-05-08%20%C3%A0s%2014.16.40.png)
 ![Alt Text](https://github.com/lucascjardim/GoBarber/blob/master/PrintsGoBarber/Captura%20de%20Tela%202020-05-08%20%C3%A0s%2014.17.31.png)
