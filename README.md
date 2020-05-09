@@ -1,5 +1,5 @@
 # GoBarber
-Repositório do GoBarber desenvolvido durante o bootcamp da Rocketseat
+Repositório da aplicação GoBarber que foi desenvolvido durante o bootcamp da Rocketseat.
 API Rest de back-end que atende as requisições HTTP do front-end web e mobile. Gerencia os bancos de dados relacionais e não relacional.
 Implementa todas as regras de negócio da aplicação.
 
